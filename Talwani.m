@@ -1,5 +1,3 @@
-% Tugas 2 Inversi Geofisika
-% Wahyu Eko Junian(22321016)
 % Talwani polygon
 function g=Talwani(x0,z0,x,z,n_sudut)
 
